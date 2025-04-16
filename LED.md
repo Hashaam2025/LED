@@ -41,7 +41,7 @@
 ## Charging
 TBD
 
-# Charger
+# Charger (3.1 Eco)
 - If it has input power, 2 red leds light up
 - Each LED represents a different battery voltage level, indicating the current charge status of the MVP. As the battery passes each voltage threshold, the respective LED lights up, providing a visual indicator of the battery's charge state.
 (Blue LEDs)
