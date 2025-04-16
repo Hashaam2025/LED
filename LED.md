@@ -39,7 +39,12 @@
 - Solid Blue LED
 
 ## Charging
-TBD
+- Solid Blue LED for a second and then turns off (Sleep)
+
+# Charger
+Red and green led. When connected Green LED will turn off until fully charged. 
+
+
 
 # Charger (3.1 Eco)
 - If it has input power, 2 red leds light up
